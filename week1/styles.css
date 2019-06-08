@@ -1,1 +1,23 @@
+#container{
+	width: 100%;
+	margin: 0 auto;
+	padding: 0.5%;
+	background: white;
 
+}
+img{
+	border-radius: 70%;
+}
+h1{
+	font-family: calibri;
+	color: black;
+}
+
+section{
+	padding: 0.0%;
+	background: coral;
+}
+body{
+	font-family: sans serif, ariel;
+	line-height: 1,5;
+}
